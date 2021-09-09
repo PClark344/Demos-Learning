@@ -1,2 +1,8 @@
 # Demos-Learning
-Code from own notes from Learning People Python Course for commonly used routines 
+Content:       Code from own notes from Learning People Python Course for commonly used routines
+
+Written by:    Paul Clark
+
+Written Using: Python
+
+Date:          04 September 2021
